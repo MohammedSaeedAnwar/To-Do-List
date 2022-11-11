@@ -1,0 +1,14 @@
+p{
+  padding:0;
+  margin:0;
+}
+ 
+input[type="checkbox"]:checked + p{
+  text-decoration: line-through;
+
+}
+
+
+  .gradient-custom  {
+    background-image: linear-gradient(#E5FCC2 , #9DE0AD,#45ADA8,#547980,#594F4F );
+  }
